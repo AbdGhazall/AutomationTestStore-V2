@@ -101,6 +101,3 @@ AutomationTestStore_V2/
     
 -   **Test order:** TestNG priorities and `dependsOnMethods` control execution order; avoid hidden test coupling when possible.
 
----
-
-## 📸 Screenshots
