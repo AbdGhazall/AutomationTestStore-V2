@@ -1,4 +1,4 @@
-# AutomationTestStore_V2
+# AutomationTestStore-V2
 
 UI test automation for the **Automation Test Store** site using **Selenium WebDriver**, **Java**, and **TestNG**.  
 The suite covers user sign-up, login, cart/checkout navigation, and logout flows with data generated on the fly.
